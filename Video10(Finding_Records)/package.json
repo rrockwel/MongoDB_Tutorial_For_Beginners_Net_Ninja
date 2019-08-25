@@ -1,0 +1,17 @@
+{
+  "name": "Video3(Connecting_to_MongoDB)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.1.4",
+    "mongodb": "^3.2.7",
+    "mongoose": "^5.5.14"
+  }
+}
