@@ -12,6 +12,6 @@
   "dependencies": {
     "mocha": "^6.1.4",
     "mongodb": "^3.2.7",
-    "mongoose": "^5.5.14"
+    "mongoose": "^5.7.5"
   }
 }
